@@ -1,6 +1,5 @@
 package Task8_05;
 
-import java.util.HashMap;
 import java.util.TreeMap;
 
 public class FamilyInfo {
